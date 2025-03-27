@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ishaan John 
+# Hi there👋, I'm Ishaan John 
 
 ## 👨‍💻 DevOps Engineer | Automating Infrastructure | Cloud Enthusiast 🚀
 
