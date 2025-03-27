@@ -1,4 +1,4 @@
-# Hi there👋, I'm Ishaan John 
+# Hi there, I'm Ishaan John 👋
 
 ## 👨‍💻 DevOps Engineer | Automating Infrastructure | Cloud Enthusiast 🚀
 
@@ -73,7 +73,10 @@ If you have any questions or want to collaborate, feel free to reach out to me:
 ## 🐙 DevOps Stickers and GIFs:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8FNrHgsA6jlUlWGb6d/giphy.gif" width="250" height="250" alt="DevOps automation"/>
-  <img src="https://media.giphy.com/media/kz5gLStCZvRviIzGGs/giphy.gif" width="250" height="250" alt="DevOps automation"/>
-  <img src="https://media.giphy.com/media/WJ1EFGdsO9DDE7rP5P/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <!-- DevOps GIF 1 -->
+  <img src="https://media.giphy.com/media/3oEjI5JkKzhwJ1o2Zm/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 1"/>
+  <!-- DevOps GIF 2 -->
+  <img src="https://media.giphy.com/media/26FfppMlZlA3TgV3i/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 2"/>
+  <!-- DevOps GIF 3 -->
+  <img src="https://media.giphy.com/media/xT0xeJpnR2z6rZ1y5W/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 3"/>
 </p>
