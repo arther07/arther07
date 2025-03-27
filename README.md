@@ -1,6 +1,6 @@
 # Hi there👋, I'm Ishaan John !
 
-![Alt text](https://tenor.com/view/devops-gif-200025856750616977) <!-- You can replace this with your own image URL -->
+![Alt text](https://tenor.com/view/devops-gif-200025856750616977)
 
 ## 💫 About Me:
 🔭 I’m currently working on automating and optimizing infrastructure, CI/CD pipelines, and cloud environments.<br><br>🌱 I’m currently learning **Serverless Architecture**, **AWS**, **Kubernetes**, and **CI/CD Pipeline Management**.<br><br>👨‍💻 All of my DevOps-related projects are available at [https://linktr.ee/ishaanjohn](https://linktr.ee/ishaanjohn)<br><br>📝 I regularly share DevOps-related content on [https://medium.com/@ishaanjohn](https://medium.com/@ishaanjohn)<br><br>📫 How to reach me: **ishaanjohn21200@gmail.com**<br><br>⚡ Fun fact about Me: **The hardest physical challenge I ever tried was starting with DevOps automation... and I loved every minute of it!**
