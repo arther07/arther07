@@ -50,8 +50,8 @@ Here are some cool things I've worked on:
 
 ## 🤖 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [LinkedIn](https://www.linkedin.com/in/ishaan-john-2325601b6/)
+- [Twitter](https://x.com/IshaanJohn1?t=4mNaaHjYo8dzgPsnfCwPOA&s=08)
 - [Blog](https://yourblog.com)
 
 ---
@@ -65,10 +65,10 @@ Here are some cool things I've worked on:
 ## 📥 How to reach me:
 If you have any questions or want to collaborate, feel free to reach out to me:
 
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [ishaanjohn21200@gmail.com](mailto:ishaanjohn21200@gmail.com)
 
 ---
 
 ### 🔄 Let's automate everything and make the world a better place! 🌍
 
-> "Good DevOps is **invisible**." — [Your Name]
+> "Good DevOps is **invisible**." — Ishaan John
