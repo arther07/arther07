@@ -37,11 +37,6 @@ Here are some cool things I've worked on:
 
 ---
 
-## 💰 You can help me by Donating:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ishaan07)
-
----
-
 ## ⚡ Fun Facts:
 - I’m currently diving deep into **Kubernetes** and **Serverless Computing**.
 - I love solving **cloud infrastructure challenges** and am an advocate of **Infrastructure as Code**.
