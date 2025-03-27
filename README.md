@@ -1,4 +1,4 @@
-# Hey👋, I'm Ishaan John...
+# Hi there👋, I'm Ishaan John !
 
 ![Alt text](https://yourimageurl.com) <!-- You can replace this with your own image URL -->
 
