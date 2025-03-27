@@ -42,11 +42,6 @@ Here are some cool things I've worked on:
 
 ---
 
-## 🐦 Latest Tweet:
-[![](https://gtce.itsvg.in/api?username=IshaanJohn1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-
 ## ⚡ Fun Facts:
 - I’m currently diving deep into **Kubernetes** and **Serverless Computing**.
 - I love solving **cloud infrastructure challenges** and am an advocate of **Infrastructure as Code**.
