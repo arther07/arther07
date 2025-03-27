@@ -1,4 +1,4 @@
-# Hi there, I'm Ishaan John 👋
+# Hi there 👋, I'm Ishaan John 
 
 ## 👨‍💻 DevOps Engineer | Automating Infrastructure | Cloud Enthusiast 🚀
 
@@ -6,11 +6,10 @@ I'm a passionate **DevOps Engineer** with a focus on automating and streamlining
 
 🔧 **Technologies & Tools I Use:**
 
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="45" fill="none" stroke="#4f8d9f" stroke-width="6">
-    <animate attributeName="r" from="45" to="50" dur="1s" begin="0s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<!-- DevOps Circle Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/dug7b6MyggAkFwZpaA/giphy.gif" width="100" height="100" alt="DevOps circle animation"/>
+</p>
 
 - **Cloud:** AWS, Azure, GCP 🌥️
 - **Containers:** Docker, Kubernetes 🐳
@@ -42,12 +41,6 @@ Here are some cool things I've worked on:
 
 ---
 
-## 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 🤖 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ishaan-john-2325601b6/)
@@ -62,6 +55,8 @@ Here are some cool things I've worked on:
 - I love contributing to **open-source projects** and enjoy sharing knowledge with the community.
 - My favorite DevOps quote: _"You build it, you run it!"_ – **Werner Vogels** (Amazon CTO)
 
+---
+
 ## 📥 How to reach me:
 If you have any questions or want to collaborate, feel free to reach out to me:
 
@@ -72,3 +67,13 @@ If you have any questions or want to collaborate, feel free to reach out to me:
 ### 🔄 Let's automate everything and make the world a better place! 🌍
 
 > "Good DevOps is **invisible**." — Ishaan John
+
+---
+
+## 🐙 DevOps Stickers and GIFs:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9vvTnY8F8v7tq6z5N/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <img src="https://media.giphy.com/media/iJQBd2kpdDhYYOEr73/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <img src="https://media.giphy.com/media/GC7I2DrcS3siyRmavD/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+</p>
