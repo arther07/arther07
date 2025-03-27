@@ -1,64 +1,61 @@
-# Hi there, I'm Ishaan John 👋
+# Hey👋, I'm Ishaan John...
 
-## 👨‍💻 DevOps Engineer | Automating Infrastructure | Cloud Enthusiast 🚀
+![Alt text](https://yourimageurl.com) <!-- You can replace this with your own image URL -->
 
-I'm a passionate **DevOps Engineer** with a focus on automating and streamlining the development pipeline. I am constantly learning and growing to improve the speed and quality of software delivery through various tools, frameworks, and practices.
-
-🔧 **Technologies & Tools I Use:**
-
-<!-- DevOps Circle Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oz8xDxtJ1DXYox5dg/giphy.gif" width="100" height="100" alt="DevOps circle animation"/>
-</p>
-
-- **Cloud:** AWS, Azure, GCP 🌥️
-- **Containers:** Docker, Kubernetes 🐳
-- **CI/CD:** Jenkins, GitLab CI, CircleCI ⚙️
-- **Infrastructure as Code:** Terraform, CloudFormation 📦
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack 📊
-- **Version Control:** Git, GitHub, GitLab 📝
-- **Scripting:** Python, Bash 🐍
-- **Configuration Management:** Ansible, Chef, Puppet 📜
+## 💫 About Me:
+🔭 I’m currently working on automating and optimizing infrastructure, CI/CD pipelines, and cloud environments.<br><br>🌱 I’m currently learning **Serverless Architecture**, **AWS**, **Kubernetes**, and **CI/CD Pipeline Management**.<br><br>👨‍💻 All of my DevOps-related projects are available at [https://linktr.ee/ishaanjohn](https://linktr.ee/ishaanjohn)<br><br>📝 I regularly share DevOps-related content on [https://medium.com/@ishaanjohn](https://medium.com/@ishaanjohn)<br><br>📫 How to reach me: **ishaanjohn21200@gmail.com**<br><br>⚡ Fun fact about Me: **The hardest physical challenge I ever tried was starting with DevOps automation... and I loved every minute of it!**
 
 ---
 
-## 💼 My DevOps Journey:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-john) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IshaanJohn1) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ishaanjohn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishaanjohn)
 
-- 🛠️ I specialize in **automating infrastructure**, **CI/CD pipelines**, and **cloud environments**.
-- 🔄 I help teams adopt **DevOps practices** to achieve faster, more reliable deployments.
-- 🌐 Passionate about scaling apps in the cloud and implementing **Infrastructure as Code**.
-- 📈 I aim to enhance operational efficiency using **monitoring, alerting, and automation**.
+---
+
+## 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23FF5A00.svg?style=plastic&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F14C28.svg?style=plastic&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F4682B.svg?style=plastic&logo=grafana&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-%23F24E1E.svg?style=plastic&logo=python&logoColor=blue)
+
+---
+
+## 🚀 My DevOps Journey:
+- 🛠️ I specialize in **automating infrastructure**, **CI/CD pipelines**, **container orchestration**, and **cloud management**.
+- 🔄 I work with teams to adopt **DevOps practices**, **Cloud-Native architecture**, and **Infrastructure as Code** (IaC).
+- 🌐 Passionate about optimizing infrastructure on **AWS**, **Azure**, and **Google Cloud**.
+- 📈 I aim to improve system reliability, scalability, and performance through **monitoring, alerting**, and **automation**.
 
 ---
 
 ## 🚀 Projects & Contributions:
-
 Here are some cool things I've worked on:
 
-- [**DevOps Automation Pipeline**](https://github.com/yourusername/devops-pipeline) – Automated CI/CD pipelines for a web application using **Jenkins** & **Docker**.
-- [**CloudFormation Templates**](https://github.com/yourusername/cloudformation-templates) – A collection of reusable CloudFormation templates for provisioning infrastructure in AWS.
-- [**Kubernetes Helm Charts**](https://github.com/yourusername/helm-charts) – Kubernetes Helm charts to streamline the deployment of applications in a cloud-native environment.
+- [**CI/CD Pipeline Automation**](https://github.com/yourusername/ci-cd-pipeline) – Automated CI/CD pipeline using **Jenkins** and **Docker** for web application deployments.
+- [**Infrastructure as Code (IaC)**](https://github.com/yourusername/terraform-iac) – Reusable **Terraform** modules for provisioning infrastructure on **AWS** and **Azure**.
+- [**Container Orchestration with Kubernetes**](https://github.com/yourusername/kubernetes-deployments) – Automated deployments using **Kubernetes** and **Helm** charts.
 
 ---
 
-## 🤖 Let's Connect!
+## 💰 You can help me by Donating:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ishaanjohn)
 
-- [LinkedIn](https://www.linkedin.com/in/ishaan-john-2325601b6/)
-- [Twitter](https://x.com/IshaanJohn1?t=4mNaaHjYo8dzgPsnfCwPOA&s=08)
-- [Blog](https://yourblog.com)
+---
+
+## 🐦 Latest Tweet:
+[![](https://gtce.itsvg.in/api?username=IshaanJohn1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
 ## ⚡ Fun Facts:
-
-- I’m currently learning about **serverless architectures** and **event-driven design**.
-- I love contributing to **open-source projects** and enjoy sharing knowledge with the community.
-- My favorite DevOps quote: _"You build it, you run it!"_ – **Werner Vogels** (Amazon CTO)
+- I’m currently diving deep into **Kubernetes** and **Serverless Computing**.
+- I love solving **cloud infrastructure challenges** and am an advocate of **Infrastructure as Code**.
+- My favorite DevOps quote: _"DevOps is not a tool, it's a culture."_ – **Gene Kim**
 
 ---
 
 ## 📥 How to reach me:
-If you have any questions or want to collaborate, feel free to reach out to me:
+Feel free to reach out to me for collaborations, advice, or to discuss DevOps practices:
 
 📧 Email: [ishaanjohn21200@gmail.com](mailto:ishaanjohn21200@gmail.com)
 
@@ -66,17 +63,13 @@ If you have any questions or want to collaborate, feel free to reach out to me:
 
 ### 🔄 Let's automate everything and make the world a better place! 🌍
 
-> "Good DevOps is **invisible**." — Ishaan John
+> "Good DevOps is **invisible**." — **Ishaan John**
 
 ---
 
 ## 🐙 DevOps Stickers and GIFs:
-
 <p align="center">
-  <!-- DevOps GIF 1 -->
-  <img src="https://media.giphy.com/media/3oEjI5JkKzhwJ1o2Zm/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 1"/>
-  <!-- DevOps GIF 2 -->
-  <img src="https://media.giphy.com/media/26FfppMlZlA3TgV3i/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 2"/>
-  <!-- DevOps GIF 3 -->
-  <img src="https://media.giphy.com/media/xT0xeJpnR2z6rZ1y5W/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 3"/>
+  <img src="https://media.giphy.com/media/26n6w8S5xdGyNmNUY/giphy.gif" width="250" height="250" alt="DevOps Automation GIF"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnR2z6rZ1y5W/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 2"/>
+  <img src="https://media.giphy.com/media/3oEjI5JkKzhwJ1o2Zm/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 3"/>
 </p>
