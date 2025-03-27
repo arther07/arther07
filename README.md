@@ -61,10 +61,3 @@ Feel free to reach out to me for collaborations, advice, or to discuss DevOps pr
 > "Good DevOps is **invisible**." — **Ishaan John**
 
 ---
-
-## 🐙 DevOps Stickers and GIFs:
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6w8S5xdGyNmNUY/giphy.gif" width="250" height="250" alt="DevOps Automation GIF"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnR2z6rZ1y5W/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 2"/>
-  <img src="https://media.giphy.com/media/3oEjI5JkKzhwJ1o2Zm/giphy.gif" width="250" height="250" alt="DevOps Automation GIF 3"/>
-</p>
