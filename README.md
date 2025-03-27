@@ -8,7 +8,7 @@ I'm a passionate **DevOps Engineer** with a focus on automating and streamlining
 
 <!-- DevOps Circle Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/dug7b6MyggAkFwZpaA/giphy.gif" width="100" height="100" alt="DevOps circle animation"/>
+  <img src="https://media.giphy.com/media/3oz8xDxtJ1DXYox5dg/giphy.gif" width="100" height="100" alt="DevOps circle animation"/>
 </p>
 
 - **Cloud:** AWS, Azure, GCP 🌥️
@@ -73,7 +73,7 @@ If you have any questions or want to collaborate, feel free to reach out to me:
 ## 🐙 DevOps Stickers and GIFs:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9vvTnY8F8v7tq6z5N/giphy.gif" width="250" height="250" alt="DevOps automation"/>
-  <img src="https://media.giphy.com/media/iJQBd2kpdDhYYOEr73/giphy.gif" width="250" height="250" alt="DevOps automation"/>
-  <img src="https://media.giphy.com/media/GC7I2DrcS3siyRmavD/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <img src="https://media.giphy.com/media/8FNrHgsA6jlUlWGb6d/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <img src="https://media.giphy.com/media/kz5gLStCZvRviIzGGs/giphy.gif" width="250" height="250" alt="DevOps automation"/>
+  <img src="https://media.giphy.com/media/WJ1EFGdsO9DDE7rP5P/giphy.gif" width="250" height="250" alt="DevOps automation"/>
 </p>
