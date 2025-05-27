@@ -29,7 +29,7 @@
 ## 🚀 Projects & Contributions:
 Here are some cool things I've worked on:
 
-- [**CI/CD Pipeline Automation**](https://github.com/yourusername/ci-cd-pipeline) – Automated CI/CD pipeline using **Jenkins** and **Docker** for web application deployments.
+- [**CI/CD Pipeline Automation**](https://github.com/arther07/CI-CD-Pipeline-java.git) – Automated CI/CD pipeline using **Jenkins** and **Docker** for web application deployments.
 - [**Infrastructure as Code (IaC)**](https://github.com/yourusername/terraform-iac) – Reusable **Terraform** modules for provisioning infrastructure on **AWS** and **Azure**.
 - [**Container Orchestration with Kubernetes**](https://github.com/yourusername/kubernetes-deployments) – Automated deployments using **Kubernetes** and **Helm** charts.
 
