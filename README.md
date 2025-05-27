@@ -53,7 +53,6 @@ Feel free to reach out to me for collaborations, advice, or to discuss DevOps pr
 We automate because we're too lazy to repeat mistakes manually.
 And honestly? That’s what makes us efficient. 😎
 
- "Good DevOps is like a ninja - deadly, silent, and leaves no logs."
- 
+🥷 "Good DevOps is like a ninja — deadly, silent, and leaves no logs."
 — Ishaan John
 ---
