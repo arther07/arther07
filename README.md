@@ -31,7 +31,7 @@ Here are some cool things I've worked on:
 
 - [**CI/CD Pipeline Automation**](https://github.com/arther07/CI-CD-Pipeline-java.git) – Automated CI/CD pipeline using **Jenkins** and **Docker** for web application deployments.
 - [**Infrastructure as Code (IaC)**](https://github.com/arther07/terraform-monolith-ec2.git) – Reusable **Terraform** modules for provisioning infrastructure on **AWS** and **Azure**.
-- [**Container Orchestration with Kubernetes**](https://github.com/yourusername/kubernetes-deployments) – Automated deployments using **Kubernetes** and **Helm** charts.
+- [**Container Orchestration with Kubernetes**](https://github.com/arther07/flask-express-k8s.git) – Automated deployments using **Kubernetes** and **Helm** charts.
 
 ---
 
